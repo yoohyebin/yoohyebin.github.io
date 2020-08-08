@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
+title:              Hyebin's blog
+email:              hyebin218@naver.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+author:             yoohyebin
 baseurl:            ""
 url:                "https://github.com/yoohyebin/yoohyebin.github.io.git"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    yoohyebin
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
